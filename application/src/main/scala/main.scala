@@ -1,2 +1,1 @@
-val x = new Foo {}
-export x.*
+export Foo.*
