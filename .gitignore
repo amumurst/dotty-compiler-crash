@@ -1,0 +1,10 @@
+target/
+.idea/
+.metals
+.bloop
+.bsp
+.DS_Store
+.vscode
+project/metals.sbt
+project/project
+.scala-build
